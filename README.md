@@ -38,7 +38,7 @@
 <p>If you have any questions about the repo or to open an issue, you can contact me at:</p> 
 
 ###  Github: [aanglin](https://github.com) 
-###  Email:  [aaron.anglin101@gmail.com](aaron.anglin101@gmail.com)  
+###  Email:  <aaron.anglin101@gmail.com> 
 
 
 
