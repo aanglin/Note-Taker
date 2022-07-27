@@ -5,7 +5,7 @@
 <p>When you want to keep track of ideas, notes, grocery list or anything you want to remember and need a way, this program is your answer. Now you have the ability to write down notes in this program and store it in a database with and id to keep track off. you can click it at anytime to see it and when you are ready to delete it, just hit the delete button and it is gone.</p>
 
 
-![Note-Taker](/Develop/public/assets/image1/Screen%20Shot%202022-07-24%20at%207.24.03%20PM.png "Note Taker")
+![Note-Taker](/public/assets/image1/Screen%20Shot%202022-07-24%20at%207.24.03%20PM.png "Note Taker")
 
 
 
